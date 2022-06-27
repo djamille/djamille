@@ -1,2 +1,2 @@
 - 👋 Hi, Eu sou a @djamille
-- 🌱 Atualmente estou estudando HTML/CSS e Javascript
+- 🌱 Atualmente estou estudando Ruby
