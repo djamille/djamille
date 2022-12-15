@@ -1,2 +1,2 @@
 - 👋 Hi, Eu sou a @djamille
-- 🌱 Atualmente estou estudando Ruby
+- 🌱 Atualmente sou estudante de Desenvolvimento Back-end pela Anhanguera e em 2023 inicio o curso de Desenvolvimento Fullstack pelo Senai pelo programa Floripa Mais Tec
