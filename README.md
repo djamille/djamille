@@ -1,2 +1,4 @@
 - 👋 Hi, Eu sou a @djamille
-- 🌱 Atualmente sou estudante de Desenvolvimento Back-end pela Anhanguera e em 2023 inicio o curso de Desenvolvimento Fullstack pelo Senai pelo programa Floripa Mais Tec
+- 🌱 Atualmente estudo em duas instituiçoes:
+    *Desenvolvimento Back-end na Anhanguera; e 
+    *Desenvolvimento Fullstack no Senai pelo programa Floripa Mais Tec
